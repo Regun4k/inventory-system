@@ -10,21 +10,19 @@
 - Git
 - GitHub
 
-## Хувилбар шалгах
+## Хувилбарууд
 
-Компьютер дээр суулгасан хувилбаруудыг дараах командаар шалгана.
+Компьютер дээр суулгасан хувилбарууд:
 
-```markdown
+- Node.js: `v22.14.0`
+- Python: `3.13.2`
+- MySQL: `8.0.41`
+- Git: `2.49.0`
+
+Хувилбар шалгах командууд:
+
+```bash
 node --version
 python --version
 mysql --version
 git --version
-
-1. MySQL database-ийг ажиллуулна.
-2. Backend орчныг бэлтгэнэ.
-3. Backend серверийг ажиллуулна.
-4. Frontend хэсгийг ажиллуулна.
-
-## Нууц мэдээлэл
-
-`.env` файл, password, API token болон database dump зэрэг нууц мэдээллийг GitHub repository-д commit хийхгүй.
