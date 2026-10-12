@@ -14,11 +14,13 @@
 
 Компьютер дээр суулгасан хувилбаруудыг дараах командаар шалгана.
 
-```markdown
+
+```bash
 node --version
 python --version
 mysql --version
 git --version
+```
 
 1. MySQL database-ийг ажиллуулна.
 2. Backend орчныг бэлтгэнэ.
