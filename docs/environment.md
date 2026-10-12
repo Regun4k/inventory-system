@@ -1,3 +1,4 @@
+
 # Development Environment
 
 ## Ашиглаж буй технологи
@@ -19,10 +20,17 @@
 - MySQL: `8.0.41`
 - Git: `2.49.0`
 
-Хувилбар шалгах командууд:
+## Хувилбар шалгах командууд
+
+Суулгасан хувилбарыг дараах командаар шалгана:
 
 ```bash
 node --version
 python --version
 mysql --version
 git --version
+```
+
+## Нууц мэдээлэл
+
+`.env` файл, password, API token болон database dump зэрэг нууц мэдээллийг GitHub repository-д commit хийхгүй.
