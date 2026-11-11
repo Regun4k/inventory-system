@@ -1,9 +1,18 @@
-node_modules/
-.env
-.venv/
-__pycache__/
-*.pyc
-*.log
-.vscode/
-.idea/
-.DS_Store
+
+warehouse-management-system/
+│
+├── README.md
+├── .gitignore
+│
+└── docs/
+    ├── baseline.md
+    ├── environment.md
+    ├── problem.md
+    ├── process.md
+    ├── requirements.md
+    ├── backlog.md
+    ├── risks.md
+    ├── ai-log.md
+    ├── debug-log.md
+    ├── traceability.md
+    └── evidence-index.md
