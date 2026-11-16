@@ -1,51 +1,41 @@
-
 # G1 — Evidence Index
 
 ## 1. Repository
 
-GitHub repository:
-
-https://github.com/tuvshe1/warehouse-management-system
+GitHub repository: https://github.com/Regun4k/inventory-system
 
 ## 2. Лабораторийн нотолгоо
 
 | Lab | Файл | Тайлбар |
 |---|---|---|
-| L01 | baseline.md | Суурь үнэлгээ, JS, Python, SQL |
-| L02 | environment.md | Хөгжүүлэлтийн орчин |
-| L03 | problem.md | Асуудал ба оролцогчид |
-| L03 | process.md | Процессын зураглал |
-| L04 | requirements.md | 8 User Story, 24 AC |
-| L05 | backlog.md | 8 Milestone |
-| L05 | risks.md | 5 эрсдэлийн төлөвлөгөө |
-| L06 | ai-log.md | AI ашигласан тэмдэглэл |
-| L06 | debug-log.md | Алдаа оношилсон тэмдэглэл |
-| L07 | traceability.md | Шаардлагын уялдаа |
+| L01 | [baseline.md](baseline.md) | Суурь үнэлгээ, JS, Python, SQL |
+| L02 | [environment.md](environment.md) | Хөгжүүлэлтийн орчин |
+| L03 | [problem.md](problem.md), [process.md](process.md) | Асуудал ба процесс |
+| L04 | [requirements.md](requirements.md) | 8 User Story, 24 AC |
+| L05 | [backlog.md](backlog.md), [risks.md](risks.md) | 8 milestone, 5 эрсдэл |
+| L06 | [ai.log.md](ai.log.md), [debug-log.md](debug-log.md) | AI болон алдаа оношилсон тэмдэглэл |
+| L07 | [traceability.md](traceability.md) | Story–AC уялдаа |
+| L08 | [reviews/G1.md](reviews/G1.md) | G1 review ба суурийн дүгнэлт |
 
 ## 3. GitHub нотолгоо
 
 | Нотолгоо | Холбоос |
 |---|---|
-| Repository | https://github.com/tuvshe1/warehouse-management-system |
-| Issues | https://github.com/tuvshe1/warehouse-management-system/issues |
-| Branches | https://github.com/tuvshe1/warehouse-management-system/branches |
-| Pull Requests | https://github.com/tuvshe1/warehouse-management-system/pulls |
-| Commit history | https://github.com/tuvshe1/warehouse-management-system/commits/main |
+| Repository | https://github.com/Regun4k/inventory-system |
+| Lab 8 Issue | https://github.com/Regun4k/inventory-system/issues/5 |
+| Branch | https://github.com/Regun4k/inventory-system/tree/feature/lab08-g1-review |
+| Pull Requests | https://github.com/Regun4k/inventory-system/pulls |
+| Commit history | https://github.com/Regun4k/inventory-system/commits/main |
 
 ## 4. Шалгалтын төлөв
 
 | Шалгах зүйл | Төлөв |
 |---|---|
-| L01 баримт | Файл бэлэн, SQL бодит шалгалт дутуу |
-| L02 баримт | Бэлэн |
-| L03 баримт | Бэлэн, бодит ярилцлагын тэмдэглэл нэмэх |
-| L04 баримт | Бэлэн |
-| L05 баримт | Бэлэн |
-| L06 баримт | Бэлэн, бодит шалгалтын нотолгоог баталгаажуулах |
-| L07 баримт | Бэлэн, Peer Review хүлээгдэж байна |
+| L01–L05 баримт | Repository-д байна; бодит ярилцлага/SQL шалгалтыг баталгаажуулах шаардлагатай |
+| L06 AI/debug тэмдэглэл | Баримт байна; өөрийн туршилтын тайлбарыг хамгаалалтаар батална |
+| L07 traceability | Шаардлагын баримтын уялдаа нэмсэн; peer review хүлээгдэж байна |
+| L08 G1 review | Review-ийн загвар бэлэн; хамгаалалт ба багшийн үнэлгээ хүлээгдэж байна |
 
 ## 5. Дүгнэлт
 
-L01–L07 лабораторийн баримт бичгүүдийг нэг repository-д нэгтгэсэн.
-
-Дараагийн шатанд өгөгдлийн сангийн загвар болон системийн ажиллагааг хөгжүүлнэ.
+L01–L08-ийн баримтуудыг энэ repository-д нэгтгэв. Файл байгаа нь тухайн шалгалт бодитоор хийгдсэн гэсэн үг биш; бодит туршилт, peer review болон хамгаалалтын үр дүнг тусад нь баталгаажуулна.
